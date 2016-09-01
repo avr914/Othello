@@ -1,3 +1,8 @@
+
+/**
+* Runner class for Othello players
+**/
+
 public class TestGame {
 
     public static void main(String[] args) {
