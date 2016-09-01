@@ -4,6 +4,10 @@ import java.util.*;
 
 /**
  * This class implements my own Othello AI.
+ * The player classes I wrote are:
+ * 		MyPlayer - Original attempt
+ * 		MyPlayerAlt - Tuned and slightly modified version of MyPlayer that performs best
+ * 		MyPlayerOpt - Alternative version of MyPlayer using a different data structure for a gameboard
  * @author Arvind Vijayakumar
  */
 
